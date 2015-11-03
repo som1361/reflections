@@ -1,0 +1,10 @@
+
+I got the following when I try to git push to heroku
+
+fatal: Not a git repository (or any of the parent directories): .git
+
+I try to follow ruby on rail tutorial book.
+
+I think I installed the client heroku package(by downloading from heroku website and follow their instruction to install, GUI format installation). So my client side heroku should be ok (I am new to programming , so not sure if saying by this term is correct or not).
+
+Then I open a new terminal and key in 
