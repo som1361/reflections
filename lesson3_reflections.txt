@@ -1,0 +1,1 @@
+fatal: Not a git repository (or any of the parent directories): .git ... That is because, by default, Git will look for a .git repository directory
