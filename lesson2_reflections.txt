@@ -1,0 +1,1 @@
+Why are there 10 instances of fatal: Not a git repository (or any of the parent directories): .git above, but in the Gemfile.lock there are only 8 G
